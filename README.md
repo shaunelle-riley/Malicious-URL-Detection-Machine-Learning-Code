@@ -4,7 +4,7 @@ Creating an XGBoost model and a Random Forest model to detect malicious URLs
 The data for this project was from Christian Urcuqui’s profile on Kaggle. https://www.kaggle.com/datasets/xwolf12/malicious-and-benign-websites/data  
 
 
-This project shows the steps necessary to create robust XGBoost and Random Forest models to detect malicious URLs. The code is separated to give more of a automated pipeline effect. 
+This project shows the steps necessary to create robust XGBoost and Random Forest models to detect malicious URLs. The code is separated to give more of an automated pipeline effect. 
 
 The folder contains 15 files:
 1. URL_dataset - the dataset which the models were trained and tested on
